@@ -1,0 +1,72 @@
+Life x // Strict LEG
+Offense x // Strict LEG
+Defense x // Strict LEG
+Speed x // SPD Focus
+Crit Rate x // Strict LEG
+Crit Damage x // DAM Focus
+Accuracy // SURVIVE/DAM/ATK -- Maybe make this more strict?
+Resistance x // Strict LEG  <==============
+Lifesteal x // Strict LEG
+Fury x // DAM Focus
+Daze x // Strict LEG
+Cursed x // SURVIVE/DAM/ATK
+Frost x // Strict LEG
+Frenzy x // Sell all
+Regeneration x // SURVIVE/DAM
+Immunity x // Strict LEG
+Shield x // SURVIVE/DAM
+Relentless x // SURVIVE/DAM/ATK
+Savage x // DAM Focus
+Destroy x // Strict LEG
+Stun x // SURVIVE/DAM/ATK
+Toxic x // Strict LEG
+Provoke x // SURVIVE/DAM/ATK
+Retaliation x // DAM Focus
+Avenging x // Strict LEG
+Stalwart x // SURVIVE/DAM
+Reflex x // SURVIVE/DAM/ATK
+Curing x // Strict LEG
+Cruel x // DAM Focus
+Immortal x // SURVIVE/DAM
+Divine Offense x // Strict LEG
+Divine Critical Rate x // Strict LEG
+Divine Life x // Strict LEG
+Divine Speed x // SPD Focus
+Swift Parry x // SURVIVE/DAM/ATK
+Deflection x // SURVIVE/DAM
+Resilience x // Strict LEG
+Perception x // SURVIVE/DAM/ATK
+Affinity Breaker x // DAM Focus
+Untouchable x // Strict LEG
+Fatal x // Strict LEG
+Frostbite x // SURVIVE/DAM
+Bloodthirst x // Strict LEG
+Guardian x // SURVIVE/DAM
+Fortitude x // Strict LEG
+Lethal x // DAM Focus
+Protection x // SURVIVE/DAM -- CHECK THIS
+Stoneskin x // Everything
+Killstroke x // DAM Focus
+Instinct x // DAM Focus
+Bolster x // SURVIVE/DAM
+Defiant x // SURVIVE/DAM
+Impulse x // SURVIVE/DAM/ATK
+Zeal x // DAM Focus
+Unknown
+Unknown
+Righteous x // SURVIVE/DAM/ATK
+
+4-Piece sets are somewhat less restrictive than 2-Piece
+
+Strict LEG: Life / Offense / Defense / Crit Rate / Divine Offense / Divine Crit Rate / Divine Life / Resilience / Fatal
+ * Only Legendary pieces.  Primary stats matching set.
+SPD Focus: Speed / Divine Speed
+ * Pretty loose, looking for speed rolls.  Boots a little more strict.
+DAM Focus: 
+ * Damage and speed only.
+SURVIVE/DAM: Regeneration / Stalwart / Immortal / Guardian / Protection / Defiant
+ * Good spread of survivability, accuracy, and damage.  No Atk% damage.
+SURVIVE/DAM/ATK: Accuracy / Cursed / Provoke / Perception / Righteous
+ * Same as SURVIVE/DAM with ATK% damage.
+Everything:
+ * Too complex, keeping all >= 6* epic, non flat substats and flat primary stats.

@@ -2,14 +2,14 @@
 
 This repo contains original and modified Lil Endgame RSLHelper artifact sell files.
 
-The sell rules have not been modified, as they are comprehensive and restrictive.  
+The sell rules are split into tiers S+, S, A, B.  
+These rules have not been modified, as they are comprehensive and restrictive.  
 
-These rules are split into tiers S+, S, A, B.  
-The A tier rules filter off-set pieces for a 'Pre-End Game' account.  
-Therefore, the Modified files have all artifact sets added to A tier and have the sell all bad artifacts (rule 17) removed.
+The A tier rules are a good filter for off-set pieces in a 'Pre-End Game' account.  
+Therefore, the Modified files have all artifact sets added to A tier and have the sell all bad artifacts (rule 17) removed.  
 
 The table information below should help with modifying your preferred artifact sets.  
-In a text editor, search using the default text and replace with your modified set list.
+In a text editor, search using the default text and replace with your modified set list.  
 
 
 Lil's resources  

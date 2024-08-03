@@ -13,9 +13,9 @@ In a text editor, search using the default text and replace with your modified s
 
 
 Lil's resources  
-[Google Docs](https://drive.google.com/drive/folders/18B1fIXDzRFNoFLgVj_Xoe3sKHP2RSi6_)
-[Gear Sets](https://docs.google.com/spreadsheets/d/1Vr0rXwR35OMF7Bt1zaJRYfA63cOMynsdlcI-ntrER7I/)
-[Youtube](https://www.youtube.com/@lilraids)
+[Google Docs](https://drive.google.com/drive/folders/18B1fIXDzRFNoFLgVj_Xoe3sKHP2RSi6_)  
+[Gear Sets](https://docs.google.com/spreadsheets/d/1Vr0rXwR35OMF7Bt1zaJRYfA63cOMynsdlcI-ntrER7I/)  
+[Youtube](https://www.youtube.com/@lilraids)  
 
 
 
